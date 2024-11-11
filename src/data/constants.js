@@ -301,8 +301,7 @@ export const projects = [
     date: "july 2024 - july 2024",
     description:
       "An Flight Booking platform using the MERN stack (MongoDB, Express, React, and Node.js) is a full-stack web application that allows users to browse, purchase, and manage products online. ",
-    image:
-      "https://private-user-images.githubusercontent.com/139365579/379114727-ff9bd5d2-3512-4c81-b390-15f5fa829629.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NjE1MzEsIm5iZiI6MTcyOTY2MTIzMSwicGF0aCI6Ii8xMzkzNjU1NzkvMzc5MTE0NzI3LWZmOWJkNWQyLTM1MTItNGM4MS1iMzkwLTE1ZjVmYTgyOTYyOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyM1QwNTI3MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYmI3MmE5OGQ4MjA0ODZlYjk4OTA3MDI2OTllOTRkMDk3OTgxZWNiZmVmYzA4YTk3YjNmZTI3ODY4NjkyODNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.DGkaLZo0BfXaVB9EK0Ln4C7ZwuyYOcOu_Oa-mboAzQQ",
+    image:"https://raw.githubusercontent.com/kirankumarn07/Flight_Booking_Frontend/refs/heads/main/Screenshot%202024-10-23%20105405.png",
     tags: [
       "javascript",
       "React Js",
@@ -314,7 +313,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/kirankumarn07/Flight_Booking_Frontend",
-    webapp: "https://glittering-heliotrope-80f7b6.netlify.app/",
+    webapp: "https://flight-booking-frontend-gilt.vercel.app/",
     member: [
       {
         name: "Naga Kiran Kumar",
@@ -325,10 +324,10 @@ export const projects = [
     },
     {
       id: 2,
-      title: "Pizza_Hut",
+      title: "Pizza_Hunt",
       date: "aug 2024 - sep 2024",
       description:"This is Pizza_Hut in this application you will customize your pizza according your requirements",
-      image:"https://raw.githubusercontent.com/kirankumarn07/Pizza_Hunt/refs/heads/main/Screenshot%202024-11-08%20185126.png",
+      image:"https://raw.githubusercontent.com/kirankumarn07/Pizza_Hunt_FE/refs/heads/main/pizzahunt.png",
       tags: [
         "javascript",
         "React Js",
@@ -340,7 +339,7 @@ export const projects = [
       ],
       category: "web app",
       github: "https://github.com/kirankumarn07/Pizza_Hunt",
-      webapp: "https://pizza-hunt-ivory.vercel.app/",
+      webapp: "https://pizza-hunt-fe.vercel.app/",
       member: [
         {
           name: "Naga Kiran Kumar",
