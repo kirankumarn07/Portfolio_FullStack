@@ -1,7 +1,9 @@
 export const Bio = {
   name: "Naga Kiran Kumar",
   roles: [
-    "MERN Stack Developer",   
+    "MERN Stack Developer",
+    "Front end Developer",
+    "Back end Developer"   
   ],
   description:
     "I am a motivated and versatile MERN Stack Developer, always eager to take on new challenges in web development. With a passion for learning and a strong foundation in MongoDB, Express.js, React, and Node.js, I am dedicated to delivering high-quality, scalable solutions. My positive attitude and growth mindset enable me to quickly adapt to new technologies and project requirements, ensuring continuous improvement and innovation.",
